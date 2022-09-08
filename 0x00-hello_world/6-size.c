@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * main - Prints quote
  *
- * Return: Always 0 (Success)
+ * Return: zeo on success
  *
  */
 int main(void)
